@@ -8,7 +8,7 @@
 
 
 .App-header {
-background-image: linear-gradient(#b088f9 ,#bedcfa);
+background-image: linear-gradient(#edf285 ,#fafcfd);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -16,6 +16,7 @@ background-image: linear-gradient(#b088f9 ,#bedcfa);
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+ 
 }
 
 .App-link {
@@ -31,16 +32,19 @@ footer {
   height: 0rem;
 }
 header {
-  background-color: #a75bff;
-  margin: auto -16px;
-  padding: 16px 32px;
+background-image: url(chaticon4.png);
+
+  padding: 70px 20px;
 
 }
 
 header h1 {
-  color: #edf285;
+  color: black;
   font-family: "McLaren", cursive;
   font-weight: 200;
+
+
+
 }
 
 
@@ -48,3 +52,5 @@ header h1 {
 footer p {
   color: gray;
 }
+
+
