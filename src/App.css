@@ -1,0 +1,50 @@
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+
+.App-header {
+background-image: linear-gradient(#b088f9 ,#bedcfa);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 0rem;
+}
+header {
+  background-color: #a75bff;
+  margin: auto -16px;
+  padding: 16px 32px;
+
+}
+
+header h1 {
+  color: #edf285;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
+
+
+
+footer p {
+  color: gray;
+}
